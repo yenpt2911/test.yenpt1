@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Sytner Group">
+
+    <parameter name="url" value ="https://demo.nopcommerce.com/" />
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        <listener class-name="reportConfig.MethodListener" />
+        <listener class-name="reportConfig.ReportNGListener" />
+
+    </listeners>
+
+    <test name="Run on Chrome">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name = "com.nopcommerce.register.User_01_Register"/>
+
+
+        </classes>
+
+    </test>
+
+
+
+
+
+</suite>

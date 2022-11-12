@@ -1,0 +1,9 @@
+[INFO ] [2022-10-24 15:53:27,279] -------------------- START delete file in folder --------------------------
+[INFO ] [2022-10-24 15:53:27,280] ------------------- END delete file in folder -----------------------------
+[INFO ] [2022-10-24 15:53:27,292] Pre-condition - STEP 01: Open browser' chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2022-10-24 15:53:37,456] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2022-10-24 15:53:38,573] User_Register_01 - STEP 01: Click to 'Register' button
+[INFO ] [2022-10-24 15:53:38,682] User_Register_01 - STEP 02: Verify error message at 'First name' textbox
+[INFO ] [2022-10-24 15:53:38,744] ---------------------PASSED--------------------
+[INFO ] [2022-10-24 15:53:39,445] OS name = windows 10
+[INFO ] [2022-10-24 15:53:39,445] Driver instance name = windows 10

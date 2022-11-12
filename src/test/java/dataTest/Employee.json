@@ -1,0 +1,16 @@
+{
+  "firstName": "Dinh",
+  "lastName": "Nam",
+  "fullName": "Dinh Nam",
+  "userName": "codynamvouni5",
+  "password": "codyUni5",
+  "emailInvalid": "yenpt@@com.",
+  "ContactDetail": {
+    "editFirstName": "Cody",
+    "editLastName": "Uni5",
+    "editGender": "Male",
+    "editMaritalStatus": "Single",
+    "editNationality": "Vietnamese"
+  }
+
+}

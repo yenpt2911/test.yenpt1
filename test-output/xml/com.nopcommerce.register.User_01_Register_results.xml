@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.178">
+  <properties />
+  
+  
+            <testcase name="User_Register_01_Empty_Data" time="0.178" classname="com.nopcommerce.register.User_01_Register" />
+      
+</testsuite>
